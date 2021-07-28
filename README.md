@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AAA-3
 - 👀 I’m interested in bioinformatics for neuroscience!
-- 🌱 I’m currently learning R 
+- 🌱 I’m currently learning (read: srtuggling) with basic R and Python
 - 📫 How to reach me on twitter: @ali_asgher_ali
 
 <!---
